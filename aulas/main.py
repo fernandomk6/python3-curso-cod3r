@@ -1,3 +1,3 @@
-from variaveis import main
+from tiposBasicos import basicos
 
 print('main')
