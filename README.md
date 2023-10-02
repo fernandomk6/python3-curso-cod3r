@@ -1,4 +1,4 @@
-# python3-curso-rapido-cod3r
+# python3-curso-cod3r
 
 Aprenda os principais conceitos de Python em um curso rápido e objetivo! Módulos, Operadores, Função, Classe e mais!
 
